@@ -1,8 +1,10 @@
+import Header from "./Components/Header"
+
 function App() {
 
   return (
     <>
-    <h1>Moment 1</h1>
+      <Header title={"Blommor 2025"} />
     </>
   )
 }
