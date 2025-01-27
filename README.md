@@ -3,4 +3,4 @@ Syftet med webbplatsen är att representera ett fritidsintresse med React och Ty
 
 Lösningen innehåller tre komponenter; sidhuvud, sidfot, och en lista med blommor.
 
-Resultatet finns att se här: https://emmaelmberg.github.io/emma-react/
+Resultatet finns att se här: https://emma-react.netlify.app/
