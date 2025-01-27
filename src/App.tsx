@@ -1,3 +1,4 @@
+import Flowers from "./Components/Flowers"
 import Header from "./Components/Header"
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
   return (
     <>
       <Header title={"Blommor 2025"} />
+      <Flowers />
     </>
   )
 }
